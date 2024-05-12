@@ -1,0 +1,19 @@
+*{padding: 0%;margin: 0%;}
+body{font-family:"young Serif",serif}
+.section-one{background-color: black;color: white;padding: 20px;}
+.section-one__name{font-size: 60px;}
+.section-one__role{font-size: 30px;margin-top: 10px;}
+.section-one__contact{background-color: orangered;color: white;
+text-decoration: none;padding-top: 5px;padding-bottom: 5px;
+padding-left: 10px;padding-right: 10px;text-align: center;border-radius: 10px;
+margin-top: 10px;}
+.container{padding: 50px;}
+.section-two{margin-top: 10px;}
+.section-three{background-color: #6462FD;color: black;padding: 20px;
+border-radius: 10px;margin-top: 20px;vertical-align: top;
+display: inline-block;height:200px;
+}
+li{list-style: none;}
+.section-four{background-color: orange;color: black;padding: 20px;display:inline-block;
+    border-radius: 10px;margin-top: 20px;height: 200px;}
+.section-five{background-color: black;color: white;margin-top: 20px;text-align: justify;padding: 20px;}
