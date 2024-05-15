@@ -1,14 +1,10 @@
 *{padding: 0%;margin: 0%;}
-.logo,.search{color: #ff4668;}
-.searchbar{display: flex;border:solid black 1px;width: 30%;justify-content: space-around;
-padding: 10px;border-radius: 30px;}
-
-.header{display: flex;align-items: center;justify-content: space-between;padding: 10px;}
-.filtersection{display: flex;justify-content: space-around;text-align: center;
-padding: 10px;}
-img{border-radius:10px;transition: 1s;}
-img:hover{transform: scale(1,1);}
-.hotel-container{padding: 10px;display: flex;
-flex-wrap: wrap; justify-content: space-around;gap: 20px;}
-body{font-family: "Poppins",sans-serif;}
-
+body{font-family:"young Serif",serif}
+.section-one{background-color: black;color: white;padding: 20px;}
+.section-one__home{background-color: orangered;text-decoration: none;color:white;
+margin-top: 10px;margin-left: 5px;margin-right: 5px;margin-bottom:10px;padding: 5px;}
+.section-one__title{font-size: 60px;}
+.section-one__role{font-size: 30px;margin-top: 10px;}
+.container{padding:50px;}
+.section-2{margin-top: 100px;margin-bottom: 100px;text-align: center;padding: 20px;}
+.section-3{background-color: black;color: white;vertical-align: bottom;padding: 20px;}
